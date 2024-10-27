@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #f6f6f6;
+}
+
+.titulo {
+    color: #22D4FD;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
